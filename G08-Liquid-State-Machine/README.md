@@ -18,7 +18,7 @@ for more information, check this link out [here]( https://hub.packtpub.com/what-
 
 Our data file is a csv file in which the information inside is separated by commas.
 Information in the dataset is available in various Nasdaq markets for 3 consecutive years.
-this a sample of dataset[here](https://hub.packtpub.com/what-is-lstm/)
+this a sample of dataset[here](/)
 
 ## installation:
 
