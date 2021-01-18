@@ -36,7 +36,7 @@ for the rest Libraries, if you need to install do the same.
 
 
 Diagram of the whole system (the part where the system is trained and the part where the system guesses):
-[here](
+[here](https://github.com/kimiyagr/computational-intelligence-class-9901/blob/master/G08-Liquid-State-Machine/a.png)
  
 
 Uploading file in github:
