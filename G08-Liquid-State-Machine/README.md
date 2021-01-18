@@ -8,16 +8,17 @@
 
 In this project, we intend to generate a LSTM neural network with the help of keras and tensorflow libraries that can predict the time-price series of stocks in the Nasdaq market.
 
-
 ## what is LSTM in deep learning?
 
 LSTM stands for long short term memory. It is a model or architecture that extends the memory of recurrent neural networks. Typically, recurrent neural networks have ‘short term memory’ in that they use persistent previous information to be used in the current neural network. Essentially, the previous information is used in the present task. That means we do not have a list of all of the previous information available for the neural node.
+
 for more information, check this link out [here]( https://hub.packtpub.com/what-is-lstm/) 
 
 ## dataset:
 
 Our data file is a csv file in which the information inside is separated by commas.
 Information in the dataset is available in various Nasdaq markets for 3 consecutive years.
+
 this a sample of dataset[here] (https://github.com/kimiyagr/computational-intelligence-class-9901/blob/master/G08-Liquid-State-Machine/dataset.PNG)
 
 ## installation:
@@ -43,7 +44,6 @@ Print these commands in cmd for installation:
 7. pip install Matplotlib
 8. pip install Sklearn
 9. pip install Pandas
-
 
 
 ## System guess chart and actual output:
