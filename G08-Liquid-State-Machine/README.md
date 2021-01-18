@@ -48,9 +48,8 @@ Print these commands in cmd for installation:
 
 ## System guess chart and actual output:
  
+These are images of the program output
 
-
-Diagram of the whole system (the part where the system is trained and the part where the system guesses):
 [here](https://github.com/kimiyagr/computational-intelligence-class-9901/blob/master/G08-Liquid-State-Machine/a.png)
  
 
