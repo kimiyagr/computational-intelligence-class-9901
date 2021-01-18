@@ -34,7 +34,6 @@ for the rest Libraries, if you need to install do the same.
 ## System guess chart and actual output:
  
 
-72 / 5000
 
 Diagram of the whole system (the part where the system is trained and the part where the system guesses):
  
