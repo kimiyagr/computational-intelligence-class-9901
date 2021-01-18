@@ -50,7 +50,9 @@ Print these commands in cmd for installation:
  
 These are images of the program output
 [here](https://github.com/kimiyagr/computational-intelligence-class-9901/blob/master/G08-Liquid-State-Machine/b.png)
+and
 [here](https://github.com/kimiyagr/computational-intelligence-class-9901/blob/master/G08-Liquid-State-Machine/c.png)
+and
 [here](https://github.com/kimiyagr/computational-intelligence-class-9901/blob/master/G08-Liquid-State-Machine/a.png)
  
 
