@@ -6,7 +6,7 @@
 
 ## Project Description:
 
-In this project, we intend to generate a neural network with the help of keras and tensorflow libraries that can predict the time-price series of different stocks in the Nasdaq market. This project uses Python programming language and jupyter notebook tool.
+In this project, we intend to generate a LSTM neural network with the help of keras and tensorflow libraries that can predict the time-price series of stocks in the Nasdaq market.
 
 
 ## what is LSTM in deep learning?
@@ -18,16 +18,31 @@ for more information, check this link out [here]( https://hub.packtpub.com/what-
 
 Our data file is a csv file in which the information inside is separated by commas.
 Information in the dataset is available in various Nasdaq markets for 3 consecutive years.
-this a sample of dataset [here](https://github.com/kimiyagr/computational-intelligence-class-9901/blob/master/G08-Liquid-State-Machine/dataset.PNG)
+this a sample of dataset[here] (https://github.com/kimiyagr/computational-intelligence-class-9901/blob/master/G08-Liquid-State-Machine/dataset.PNG)
 
 ## installation:
 
-For running this project you need to install: Jupyter notebook, tenserflow and keras
+For running this project you need to install:
+- Python3
+- IPython notebook reader
+- Jupyter notebook
+- Tensorflow
+- Keras
+- NumPy
+- Matplotlib
+- Sklearn
+- Pandas
+
 Print these commands in cmd for installation:
-1. pip install jupyter notebook
-2. pip install tensorflow
-3. pip install keras
-for the rest Libraries, if you need to install do the same.
+1. pip install Python3
+2. pip install IPython
+3. pip install Jupyter notebook
+4. pip install Tensorflow
+5. pip install Keras
+6. pip install NumPy
+7. pip install Matplotlib
+8. pip install Sklearn
+9. pip install Pandas
 
 
 
@@ -36,7 +51,7 @@ for the rest Libraries, if you need to install do the same.
 
 
 Diagram of the whole system (the part where the system is trained and the part where the system guesses):
- [here](https://github.com/kimiyagr/computational-intelligence-class-9901/blob/master/G08-Liquid-State-Machine/a.png)
+[here](https://github.com/kimiyagr/computational-intelligence-class-9901/blob/master/G08-Liquid-State-Machine/a.png)
  
 
 Uploading file in github:
